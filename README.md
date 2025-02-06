@@ -34,18 +34,12 @@ A simple and efficient Todo App built with React, Redux, and TailwindCSS. It all
    ```
 2. Install dependencies:
    ```sh
-   npm install
+   npm i @reduxjs/toolkit react-redux tailwindcss @tailwindcss/vite react-icons --save
    ```
 3. Start the development server:
    ```sh
    npm run dev
    ```
-
-## 📜 Dependencies
-Install project dependencies using:
-```sh
-npm i @reduxjs/toolkit react-redux tailwindcss @tailwindcss/vite react-icons --save
-```
 
 ## 🤝 Contributing
 Feel free to fork this repository and submit pull requests to enhance the project.
